@@ -8,6 +8,6 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Projects"
-      href: projects.html
+      href: Projects.html
 output_dir: "docs"
 ---
